@@ -1,0 +1,12 @@
+#logging:
+#  level:
+#    root: trace
+
+elasticsearch:
+  host: localhost
+  port: 9200
+  cloudId: ${cloudId:5481-Project:dXMtY2VudHJhbDEuZ2NwLmNsb3VkLmVzLmlvOjQ0MyQ5NTc2NTk4MTZhOTU0MjQwYTMzNTcxMmExNzhiMjkwMSRiN2Y0ZWQ4YWYyZjg0Y2ZjYjkxNThmNmZlN2YzZGIwOA==}
+  apiKey: ${apiKey}
+  username: elastic
+  password: ${elasticSearchPassword}
+  fingerPrint: ${elasticSearchFingerPrint}
