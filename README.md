@@ -1,4 +1,4 @@
-1.API & UI
+(1)API & UI
 
   Please start API before you start news search engine web application.
 
@@ -10,8 +10,8 @@
   1. npm i
   2. npm start
 
-2. News Clawer
-   located in "Crawler.ipynb"
+(2)News Clawer
+  - located in "Crawler.ipynb"
 
-3. Dataset
-   located in "dataset directory"
+(3)Dataset
+  - located in "dataset directory"
