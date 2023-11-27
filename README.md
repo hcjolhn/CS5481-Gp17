@@ -1,4 +1,4 @@
-Please start API before you start this news search engine web application.
+Please start API before you start news search engine web application.
 
 To start the API:
 1. mvn spring-boot:run
