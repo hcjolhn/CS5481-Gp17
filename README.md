@@ -1,13 +1,17 @@
-API & UI
-Please start API before you start news search engine web application.
+1.API & UI
 
-To start the API (in api directory):
-1. please set your apiKey & cloudId of Elasticsearch in "main/resources/application.yml"
-2. mvn spring-boot:run
+  Please start API before you start news search engine web application.
 
-To start the news search engine (in web app directory):
-1. npm i
-2. npm start
+  To start the API (in api directory):
+  1. please set your apiKey & cloudId of Elasticsearch in "main/resources/application.yml"
+  2. mvn spring-boot:run
 
-News Clawer in "Crawler.ipynb"
-Dataset in "dataset directory"
+  To start the news search engine (in web app directory):
+  1. npm i
+  2. npm start
+
+2. News Clawer
+   located in "Crawler.ipynb"
+
+3. Dataset
+   located in "dataset directory"
