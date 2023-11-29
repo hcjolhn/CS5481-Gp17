@@ -15,3 +15,6 @@
 
 (3)Dataset
   - located in "dataset directory"
+
+(4)Query Construction
+  - located in "Query-Construction.ipynb"
